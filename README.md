@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashhabk
+- 👋 Hi, I’m @ashhabk a career swithcer from network analyst to data analyst!
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning about data analysis especially SQL,phyton, data visualization using tableau & power BI
 - 💞️ I’m looking to collaborate on ...
