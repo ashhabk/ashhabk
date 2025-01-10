@@ -82,7 +82,7 @@
 ### 🏆 Projects
 1. [**End-to-End Analytics Engineer Project – Airbnb Listings**](https://drive.google.com/file/d/1X_zCLjW4PPL_ftPhLcdhwK7we4gyvzAh/view?usp=drive_link)  
    *A comprehensive end-to-end data analytics engineering project focused on Airbnb listings.*  
-   *(Tools used: snowflake,googlecloud,google bigquery,dbt, Looker)*
+   *(Tools used: snowflake,google bigquery,dbt, Looker)*
 
 2. [**Oil Production Over the World – Tableau Dashboard**](https://public.tableau.com/app/profile/ashhab.karami/viz/Codivy-Task-Week5/Dashboard1)  
    *A Tableau dashboard visualizing oil production trends globally, offering actionable insights.*
