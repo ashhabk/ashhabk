@@ -22,9 +22,10 @@
 
 ### **Hi, I'm Ashhab 👋**
 
-<p align="center">
-  I'm a **data analyst** and aspiring **data engineer** passionate about transforming raw data into actionable insights and building scalable data solutions. I thrive on solving problems with data, automation, and visualization.
-</p>
+
+  I'm a 
+  **Data Analyst** and aspiring **Analytics Engineer** passionate about transforming raw data into actionable insights and building scalable data solutions. I thrive on solving problems with data, automation, and visualization.
+
 
 <br>
 
@@ -85,7 +86,7 @@
 
 <br>
 
-#### **📝 Latest Medium Posts**
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium Posts" />
-</div>
+### 📝 Latest Medium Posts
+
+[![Ashhab's Medium Articles](https://github-readme-medium.vercel.app/?username=ashhab.karami)](https://medium.com/@ashhab.karami)
+
