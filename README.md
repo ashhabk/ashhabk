@@ -70,12 +70,23 @@
 
 <br>
 
-#### **🗂️ Featured Repository**
-<div align="center">
-  <a href="https://github.com/ashhabk/API-in-Python" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashhabk&repo=API-in-Python&theme=dracula" alt="API in Python" />
-  </a>
-</div>
+### 📂 Repositories
+1. [**Research and Exploratory Data Analysis on Gas and Oil World**](https://github.com/ashhabk/Research-Exploratory-Data-Analysis-Gas-Oil-World)  
+   *An in-depth exploratory data analysis (EDA) on global gas and oil data to uncover insights and trends.*
+
+2. [**Exploratory Data Analysis**](https://github.com/ashhabk/Exploratory-Data-Analysis)  
+   *A detailed analysis of datasets using Python and visualization tools to derive meaningful insights.*
+
+---
+
+### 🏆 Projects
+1. [**End-to-End Analytics Engineer Project – Airbnb Listings**](https://drive.google.com/file/d/1X_zCLjW4PPL_ftPhLcdhwK7we4gyvzAh/view?usp=drive_link)  
+   *A comprehensive end-to-end data analytics engineering project focused on Airbnb listings.*  
+   *(Tools used: Python, Apache Airflow, Tableau)*
+
+2. [**Oil Production Over the World – Tableau Dashboard**](https://public.tableau.com/app/profile/ashhab.karami/viz/Codivy-Task-Week5/Dashboard1)  
+   *A Tableau dashboard visualizing oil production trends globally, offering actionable insights.*
+
 
 <br>
 
