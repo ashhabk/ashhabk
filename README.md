@@ -89,7 +89,7 @@
 
 #### **🐍 Snake Animation**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashhabk/ashhabk/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ashhabk/ashhabk.github.io/blob/main/.github/workflows/github-user-contribution.svg" alt="Snake animation" />
 </div>
 
 <br>
