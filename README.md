@@ -34,10 +34,7 @@
 - **📫 Email**: ashhab.karami@gmail.com
 - **💡 Interests**: Data analytics, data engineering, machine learning
 - **🎓 Skills**: Python (Pandas, NumPy), SQL, Tableau, Power BI, Apache Airflow, dbt, Google APIs, advanced Excel, ETL pipelines
-- **🚀 Projects**:
-  1. **Data Automation Tool**: Automating pre-analysis tasks for network performance using Python.
-  2. **Sales Dashboard**: Tableau dashboard showcasing sales trends and customer insights.
-  3. **ETL Workflow Optimization**: Streamlined workflows using Airflow for better data processing efficiency.
+
 
 <br>
 
